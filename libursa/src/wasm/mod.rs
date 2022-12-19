@@ -1,3 +1,6 @@
+// Copyright Hyperledger Ursa contributors
+// SPDX-License-Identifier: Apache-2.0
+
 #[macro_use]
 mod macros;
 #[cfg(feature = "bls_bn254")]

@@ -1,3 +1,6 @@
+// Copyright Hyperledger Ursa contributors
+// SPDX-License-Identifier: Apache-2.0
+
 // Groth signatures, Groth1 and Groth2. Section 2.4.1 of the paper
 
 use super::errors::{DelgCredCDDErrorKind, DelgCredCDDResult};

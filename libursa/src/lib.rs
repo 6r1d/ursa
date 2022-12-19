@@ -1,3 +1,6 @@
+// Copyright Hyperledger Ursa contributors
+// SPDX-License-Identifier: Apache-2.0
+
 #![deny(unused_import_braces, trivial_numeric_casts)]
 
 #[cfg(all(feature = "ecdsa_secp256k1", feature = "ecdsa_secp256k1_native"))]

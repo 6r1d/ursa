@@ -1,3 +1,6 @@
+// Copyright Hyperledger Ursa contributors
+// SPDX-License-Identifier: Apache-2.0
+
 #[cfg(any(feature = "bls_bn254", feature = "bls_bn254_asm"))]
 pub mod bls;
 #[cfg(any(feature = "cl", feature = "cl_native"))]

@@ -1,3 +1,6 @@
+// Copyright Hyperledger Ursa contributors
+// SPDX-License-Identifier: Apache-2.0
+
 extern crate ursa;
 pub use self::ursa::bn;
 pub use self::ursa::cl;

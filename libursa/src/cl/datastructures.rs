@@ -1,3 +1,6 @@
+// Copyright Hyperledger Ursa contributors
+// SPDX-License-Identifier: Apache-2.0
+
 macro_rules! hashset {
     ( $( $x:expr ),* ) => {
         {

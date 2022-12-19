@@ -1,3 +1,6 @@
+// Copyright Hyperledger Ursa contributors
+// SPDX-License-Identifier: Apache-2.0
+
 use super::constants::*;
 use bn::{BigNumber, BIGNUMBER_1};
 use cl::*;

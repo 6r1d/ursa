@@ -1,3 +1,6 @@
+// Copyright Hyperledger Ursa contributors
+// SPDX-License-Identifier: Apache-2.0
+
 macro_rules! slice_to_elem {
     ($data:expr, $elem:ident, $compressed:expr) => {{
         use pairing_plus::{bls12_381::$elem, serdes::SerDes};

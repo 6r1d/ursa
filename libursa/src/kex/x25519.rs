@@ -1,3 +1,6 @@
+// Copyright Hyperledger Ursa contributors
+// SPDX-License-Identifier: Apache-2.0
+
 use super::*;
 use rand::rngs::OsRng;
 use rand::SeedableRng;

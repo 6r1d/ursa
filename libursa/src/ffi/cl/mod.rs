@@ -1,3 +1,6 @@
+// Copyright Hyperledger Ursa contributors
+// SPDX-License-Identifier: Apache-2.0
+
 use cl::issuer::Issuer;
 use cl::verifier::Verifier;
 use cl::*;

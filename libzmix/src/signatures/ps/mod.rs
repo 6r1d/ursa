@@ -1,3 +1,6 @@
+// Copyright Hyperledger Ursa contributors
+// SPDX-License-Identifier: Apache-2.0
+
 #![allow(non_snake_case)]
 
 #[cfg(all(feature = "PS_Signature_G2", feature = "PS_Signature_G1"))]

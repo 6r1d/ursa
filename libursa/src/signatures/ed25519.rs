@@ -1,3 +1,6 @@
+// Copyright Hyperledger Ursa contributors
+// SPDX-License-Identifier: Apache-2.0
+
 pub const ALGORITHM_NAME: &str = "ED25519_SHA2_512";
 
 use super::{KeyGenOption, SignatureScheme};

@@ -1,3 +1,6 @@
+// Copyright Hyperledger Ursa contributors
+// SPDX-License-Identifier: Apache-2.0
+
 #[cfg(feature = "serde")]
 extern crate serde;
 #[cfg(any(feature = "cl_native"))]

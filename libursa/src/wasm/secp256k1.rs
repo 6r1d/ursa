@@ -1,3 +1,6 @@
+// Copyright Hyperledger Ursa contributors
+// SPDX-License-Identifier: Apache-2.0
+
 use kex::{secp256k1::EcdhSecp256k1Sha256 as EcdhSecp256k1Sha256Impl, KeyExchangeScheme};
 use keys::{KeyGenOption, PrivateKey, PublicKey};
 use signatures::{

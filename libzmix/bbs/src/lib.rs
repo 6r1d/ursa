@@ -1,3 +1,6 @@
+// Copyright Hyperledger Ursa contributors
+// SPDX-License-Identifier: Apache-2.0
+
 //! Implements the BBS+ signature as defined in <https://eprint.iacr.org/2016/663.pdf>
 //! in Section 4.3. Also included is ability to do zero-knowledge proofs as described
 //! in Section 4.4 and 4.5.

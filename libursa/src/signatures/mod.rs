@@ -1,3 +1,6 @@
+// Copyright Hyperledger Ursa contributors
+// SPDX-License-Identifier: Apache-2.0
+
 #[cfg(feature = "bls_bls12381")]
 pub mod bls;
 #[cfg(any(feature = "ed25519", feature = "ed25519_asm"))]

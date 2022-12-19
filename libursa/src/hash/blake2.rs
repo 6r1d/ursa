@@ -1,3 +1,6 @@
+// Copyright Hyperledger Ursa contributors
+// SPDX-License-Identifier: Apache-2.0
+
 #[cfg(target_pointer_width = "64")]
 pub use crate::blake2::{Blake2b as Blake2, VarBlake2b as VarBlake2};
 #[cfg(target_pointer_width = "32")]

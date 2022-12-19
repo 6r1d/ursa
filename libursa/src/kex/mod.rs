@@ -1,3 +1,6 @@
+// Copyright Hyperledger Ursa contributors
+// SPDX-License-Identifier: Apache-2.0
+
 //! A suite of Diffie-Hellman key exchange methods.
 
 use keys::{KeyGenOption, PrivateKey, PublicKey, SessionKey};

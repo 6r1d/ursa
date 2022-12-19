@@ -1,3 +1,6 @@
+// Copyright Hyperledger Ursa contributors
+// SPDX-License-Identifier: Apache-2.0
+
 use errors::prelude::*;
 use pair::{GroupOrderElement, Pair, PointG1, PointG2};
 

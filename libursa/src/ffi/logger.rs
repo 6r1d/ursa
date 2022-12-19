@@ -1,3 +1,6 @@
+// Copyright Hyperledger Ursa contributors
+// SPDX-License-Identifier: Apache-2.0
+
 use std::os::raw::{c_char, c_void};
 
 use errors::prelude::*;

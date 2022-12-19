@@ -1,3 +1,6 @@
+// Copyright Hyperledger Ursa contributors
+// SPDX-License-Identifier: Apache-2.0
+
 #[cfg(feature = "cl")]
 macro_rules! check_opt_reference {
     ($ref:ident, $thing:tt) => {

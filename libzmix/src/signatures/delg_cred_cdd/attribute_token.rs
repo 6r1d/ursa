@@ -1,3 +1,6 @@
+// Copyright Hyperledger Ursa contributors
+// SPDX-License-Identifier: Apache-2.0
+
 // A presenter is an entity holding a CredChain which does proof of attribute tokens
 // Protocol described in Figure 4 and Figure 5 of section 5.3 of the paper. Some corrections were
 // made which are commented inline with the code.

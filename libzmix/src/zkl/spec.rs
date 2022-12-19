@@ -1,3 +1,6 @@
+// Copyright Hyperledger Ursa contributors
+// SPDX-License-Identifier: Apache-2.0
+
 pub struct ProofSpec {
     pub attribute_count: u32,
     pub disclosed_attributes: Vec<DisclosedAttribute>,

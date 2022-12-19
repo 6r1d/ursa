@@ -1,3 +1,6 @@
+// Copyright Hyperledger Ursa contributors
+// SPDX-License-Identifier: Apache-2.0
+
 use kex::{x25519::X25519Sha256 as X25519Sha256Impl, KeyExchangeScheme};
 use keys::{KeyGenOption, PrivateKey, PublicKey};
 

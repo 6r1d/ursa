@@ -1,3 +1,6 @@
+// Copyright Hyperledger Ursa contributors
+// SPDX-License-Identifier: Apache-2.0
+
 use keys::KeyGenOption;
 use signatures::{prelude::Ed25519Sha512 as Ed25519Sha512Impl, SignatureScheme};
 

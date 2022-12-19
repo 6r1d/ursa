@@ -1,3 +1,6 @@
+// Copyright Hyperledger Ursa contributors
+// SPDX-License-Identifier: Apache-2.0
+
 use super::errors::{PSError, PSErrorKind};
 use super::keys::{Sigkey, Verkey};
 use super::{ate_2_pairing, OtherGroupVec, SignatureGroup};

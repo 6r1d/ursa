@@ -1,3 +1,6 @@
+// Copyright Hyperledger Ursa contributors
+// SPDX-License-Identifier: Apache-2.0
+
 use super::errors::{DelgCredCDDErrorKind, DelgCredCDDResult};
 use super::groth_sig::{
     Groth1SetupParams, Groth1Sig, Groth1Verkey, Groth2SetupParams, Groth2Sig, Groth2Verkey,

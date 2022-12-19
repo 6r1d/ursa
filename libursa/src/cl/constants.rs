@@ -1,3 +1,6 @@
+// Copyright Hyperledger Ursa contributors
+// SPDX-License-Identifier: Apache-2.0
+
 use bn::{BigNumber, BIGNUMBER_2};
 
 pub const LARGE_MASTER_SECRET: usize = 256;

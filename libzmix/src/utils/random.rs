@@ -1,3 +1,6 @@
+// Copyright Hyperledger Ursa contributors
+// SPDX-License-Identifier: Apache-2.0
+
 use amcl_miracl::arch::Chunk;
 use amcl_miracl::bls381::big::BIG;
 use amcl_miracl::rand::RAND;

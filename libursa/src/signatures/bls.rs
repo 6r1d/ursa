@@ -1,3 +1,6 @@
+// Copyright Hyperledger Ursa contributors
+// SPDX-License-Identifier: Apache-2.0
+
 use super::SignatureScheme;
 /// Implements
 /// https://eprint.iacr.org/2018/483 and

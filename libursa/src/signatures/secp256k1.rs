@@ -1,3 +1,6 @@
+// Copyright Hyperledger Ursa contributors
+// SPDX-License-Identifier: Apache-2.0
+
 use super::*;
 use sha2::digest::generic_array::typenum::U32;
 use CryptoError;

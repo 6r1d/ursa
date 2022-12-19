@@ -1,3 +1,6 @@
+// Copyright Hyperledger Ursa contributors
+// SPDX-License-Identifier: Apache-2.0
+
 use amcl::bls381::ecp::ECP;
 use amcl::bls381::big::{BIG, MODBYTES};
 use amcl::bls381::rom::CURVE_ORDER;

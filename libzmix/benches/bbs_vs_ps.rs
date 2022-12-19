@@ -1,3 +1,6 @@
+// Copyright Hyperledger Ursa contributors
+// SPDX-License-Identifier: Apache-2.0
+
 extern crate amcl_wrapper;
 #[macro_use]
 extern crate criterion;

@@ -1,3 +1,6 @@
+// Copyright Hyperledger Ursa contributors
+// SPDX-License-Identifier: Apache-2.0
+
 //! Implements Shamir's simple secret sharing scheme.
 //! Not an implementation of verifiable secret sharing as described by Feldman
 //! (see <https://www.cs.umd.edu/~gasarch/TOPICS/secretsharing/feldmanVSS.pdf>

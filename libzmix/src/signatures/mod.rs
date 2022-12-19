@@ -1,3 +1,6 @@
+// Copyright Hyperledger Ursa contributors
+// SPDX-License-Identifier: Apache-2.0
+
 use amcl_wrapper::field_elem::{FieldElement, FieldElementVector};
 use std::collections::HashMap;
 

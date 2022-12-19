@@ -1,3 +1,6 @@
+// Copyright Hyperledger Ursa contributors
+// SPDX-License-Identifier: Apache-2.0
+
 //! Encryption is categorized as public key encryption or symmetric encryption
 //! `symm` provides symmetric AEAD cryptographic algorithms.
 use aead::generic_array::{ArrayLength, GenericArray};

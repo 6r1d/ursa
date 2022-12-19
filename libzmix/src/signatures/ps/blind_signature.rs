@@ -1,3 +1,6 @@
+// Copyright Hyperledger Ursa contributors
+// SPDX-License-Identifier: Apache-2.0
+
 // Scheme defined in section 6.1 supporting blind signatures
 
 use super::errors::{PSError, PSErrorKind};

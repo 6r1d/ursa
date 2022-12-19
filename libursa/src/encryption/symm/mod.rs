@@ -1,3 +1,6 @@
+// Copyright Hyperledger Ursa contributors
+// SPDX-License-Identifier: Apache-2.0
+
 //! A suite of Authenticated Encryption with Associated Data (AEAD) cryptographic ciphers.
 //!
 //! Provided are three different ciphers: AES-CBC-HMAC, AES-GCM, and XCHACHA20-POLY1305.

@@ -1,3 +1,6 @@
+// Copyright Hyperledger Ursa contributors
+// SPDX-License-Identifier: Apache-2.0
+
 // FFI functions to the ed25519 signatures
 //
 // Example of how to use these functions from C

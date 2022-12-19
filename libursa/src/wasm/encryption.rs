@@ -1,3 +1,6 @@
+// Copyright Hyperledger Ursa contributors
+// SPDX-License-Identifier: Apache-2.0
+
 use aead::{generic_array::typenum::Unsigned, NewAead};
 use encryption::random_vec;
 use encryption::symm::prelude::*;

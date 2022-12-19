@@ -1,3 +1,6 @@
+// Copyright Hyperledger Ursa contributors
+// SPDX-License-Identifier: Apache-2.0
+
 #[cfg(feature = "sha2")]
 pub use sha2;
 #[cfg(feature = "sha3")]

@@ -1,3 +1,6 @@
+// Copyright Hyperledger Ursa contributors
+// SPDX-License-Identifier: Apache-2.0
+
 /// Creates the BTreeMap used for blind signing
 #[macro_export]
 macro_rules! sm_map {

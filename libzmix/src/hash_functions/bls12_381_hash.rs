@@ -1,3 +1,6 @@
+// Copyright Hyperledger Ursa contributors
+// SPDX-License-Identifier: Apache-2.0
+
 use std::collections::HashMap;
 
 use amcl::bls381::big::MODBYTES;

@@ -1,3 +1,6 @@
+// Copyright Hyperledger Ursa contributors
+// SPDX-License-Identifier: Apache-2.0
+
 use crate::commitments::pok_vc::PoKVCError;
 use failure::{Backtrace, Context, Fail};
 use std::fmt;

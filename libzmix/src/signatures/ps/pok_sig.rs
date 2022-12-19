@@ -1,3 +1,6 @@
+// Copyright Hyperledger Ursa contributors
+// SPDX-License-Identifier: Apache-2.0
+
 // Proof of knowledge of signature
 
 use super::errors::{PSError, PSErrorKind};

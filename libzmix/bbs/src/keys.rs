@@ -1,3 +1,6 @@
+// Copyright Hyperledger Ursa contributors
+// SPDX-License-Identifier: Apache-2.0
+
 use crate::errors::prelude::*;
 use crate::{
     hash_to_g2, GeneratorG1, GeneratorG2, HashElem, RandomElem, ToVariableLengthBytes,

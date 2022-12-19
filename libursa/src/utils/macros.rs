@@ -1,3 +1,6 @@
+// Copyright Hyperledger Ursa contributors
+// SPDX-License-Identifier: Apache-2.0
+
 #[cfg(any(feature = "ecdsa_secp256k1", feature = "ecdh_secp256k1"))]
 macro_rules! array_copy {
     ($src:expr, $dst:expr) => {

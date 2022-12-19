@@ -1,3 +1,6 @@
+// Copyright Hyperledger Ursa contributors
+// SPDX-License-Identifier: Apache-2.0
+
 // Proof of knowledge of committed values in a vector Pedersen commitment.
 
 // `ProverCommitting` will contains vectors of generators and random values.
